@@ -1,10 +1,7 @@
 <h2>Digital Innovation: Bootcamp GFT - Developing a REST API for person management with Spring Boot</h2>
 
-Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
-Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
-
-* Initial setup using Spring Boot Initialzr
+* Spring Boot Initialzr
 * Creating a data model for mapping entities into databases
 * Development of user management operations (Registration, reading, updating and removing people from a system).
 * Relation of each of the operations above with the REST architectural pattern, and the explanation of each of the REST concepts involved during project development.
